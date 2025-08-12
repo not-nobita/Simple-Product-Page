@@ -1,1 +1,1 @@
-# Simple-Product-Page
+This project is a static HTML and CSS webpage designed to showcase the Dell Inspiron 15 7000 laptop. It includes multiple product images, detailed specifications, pricing and discount information, warranty details, and purchase options such as RAM and storage selection, along with Add to Cart, Buy Now, and Wishlist buttons, all presented in a clean and organized layout.
